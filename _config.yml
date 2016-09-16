@@ -21,7 +21,7 @@ author:
   info:
 
 url: blog.zelaf.eu
-baseurl: "/"
+baseurl: "blog.zelaf.eu"
 
 # language attribute in <html> element.
 lang: en
