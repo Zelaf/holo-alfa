@@ -21,7 +21,7 @@ author:
   info:
 
 url: blog.zelaf.eu
-baseurl: 
+baseurl:
 
 # language attribute in <html> element.
 lang: en
@@ -78,7 +78,7 @@ paginate: 3
 display-next-prev-post: false
 
 # Leave empty if you don't want comments on post pages.
-disqus-shortname:
+disqus-shortname: zelafs-blog
 
 
 ################
