@@ -4,6 +4,7 @@ title: New blog.
 date: '2016-07-05 14:46:18'
 tags:
 - update
+description: New blog
 ---
 
 I got a new blog up and running now... I wont update it too much... Maybe a few times a week to say where I've been and such. I could integrate it into my Adobe Portfolio website so maybe I'll do that!
